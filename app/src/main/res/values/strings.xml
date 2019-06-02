@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reference_activity_menu_bar</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+</resources>
